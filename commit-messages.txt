@@ -1,0 +1,10 @@
+fix: обновлены тесты, фикстуры и импорты, улучшено покрытие, исправлены ошибки моделей -> исправление: обновлены тесты, фикстуры и импорты, улучшено покрытие, исправлены ошибки моделей
+Add settings module tests -> Добавлены тесты модуля настроек
+Add statistics module tests -> Добавлены тесты модуля статистики
+Add notifications module tests -> Добавлены тесты модуля уведомлений
+Add reports module tests -> Добавлены тесты модуля отчетов
+Add tenant management tests -> Добавлены тесты управления арендаторами
+Add payment management tests -> Добавлены тесты управления платежами
+Add contract management tests -> Добавлены тесты управления договорами
+Add property management tests and testing configuration -> Добавлены тесты управления имуществом и конфигурация тестирования
+Add database models and migrations -> Добавлены модели базы данных и миграции 
